@@ -1,0 +1,21 @@
+{
+  "title": "County-level mortality and determinant panel for Poland, 2010–2025 (379 harmonised counties)",
+  "upload_type": "dataset",
+  "description": "County-level data supporting spatial Mundlak GAM analyses of age-sex-standardised mortality and social/environmental determinants in 379 harmonised Polish counties, 2010–2025. DRAFT ONLY: actual data files, redistribution rights, creator information, license and access conditions must be verified before deposit.",
+  "keywords": [
+    "Poland",
+    "mortality",
+    "health geography",
+    "spatial Mundlak",
+    "GAM",
+    "county-level panel"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tmadej-512/asmr-spatial-mundlak-poland",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "DRAFT. Do not publish without verified creator(s), data rights, full variable dictionary and actual file upload."
+}
